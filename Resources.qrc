@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>brushSettings_icon.png</file>
+        <file>circle_icon.png</file>
+        <file>clear_icon.png</file>
+        <file>colorPalatte_icon.png</file>
+        <file>componentsHistory.png</file>
+        <file>dep_penSettings.png</file>
+        <file>freeHandTool_icon.png</file>
+        <file>group_icon.png</file>
+        <file>line_icon.png</file>
+        <file>open_icon.png</file>
+        <file>penSettings_icon.png</file>
+        <file>pickTool_icon.png</file>
+        <file>rect_icon.png</file>
+        <file>save_icon.png</file>
+        <file>splashImg.png</file>
+        <file>ungroup_icon.png</file>
+    </qresource>
+</RCC>
